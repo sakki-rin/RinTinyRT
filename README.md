@@ -16,5 +16,5 @@
 
 ## Ray tracing: The rest of your life
 
-![CornelBox1](E:\Practice Projects\rinRayTracer\rinRayTracer\result\CornelBox1.jpg)
+![CornelBox1](https://cdn.jsdelivr.net/gh/sakki-rin/CDN/img/articleimg/CornelBox1.jpg)
 
